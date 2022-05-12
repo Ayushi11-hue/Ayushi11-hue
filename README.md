@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushi11-hue
+- 👋 Hi, I’m Ayushi Malik
 - 👀 I’m interested in coding and learning new things.
 - 🌱 I’m currently learning many things. Life is teaching me everyday.
 - 💞️ I’m looking to collaborate on web page design of clone site.
